@@ -1,0 +1,5 @@
+target
+.idea
+*.log
+
+src/min/java/blah.java
