@@ -4,8 +4,6 @@ public class Firstclass {
         System.out.println("someone");
         System.out.println("change two");
         System.out.println("change three");
-//
-
     }
 }
 
