@@ -1,3 +1,4 @@
 public class ThirdClass {
-    //some logical c
+
+    //some logical
 }
